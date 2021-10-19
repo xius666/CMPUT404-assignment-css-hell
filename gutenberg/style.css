@@ -1,0 +1,16 @@
+body {
+  background-image: url("paper.jpeg");
+}
+img {
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  height: 60%;
+}
+p {
+  margin-top: 0.25em;
+  margin-bottom: 0.25em;
+  font-family: URW Chancery L, cursive;
+  color: #033323;
+  text-indent: 2em;
+}
