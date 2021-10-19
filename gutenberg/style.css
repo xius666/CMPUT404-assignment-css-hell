@@ -1,16 +1,38 @@
 body {
   background-image: url("paper.jpeg");
+  margin-left: 20%;
+  margin-right: 20%;
+  text-align: justify;
 }
 img {
-  margin-left: auto;
-  margin-right: auto;
+  border: 1px solid #ddd;
   border-radius: 50%;
-  height: 60%;
+  padding: 5px;
 }
 p {
-  margin-top: 0.25em;
-  margin-bottom: 0.25em;
-  font-family: URW Chancery L, cursive;
-  color: #033323;
-  text-indent: 2em;
+  font-family: cursive;
+  color: #185742;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+a {
+  text-align: center;
+  margin-left: 10%;
+  color: #0f0f02;
+  font-family: cursive;
+}
+h1 {
+  font-family: "Trebuchet MS", sans-serif;
+  font-size: 4em;
+  letter-spacing: -2px;
+}
+h2 {
+  font-family: "Trebuchet MS", sans-serif;
+  font-size: 2em;
+  letter-spacing: -2px;
+  border-bottom: 3px solid black;
+}
+i {
+  font-family: cursive;
 }
